@@ -1,0 +1,7 @@
+*.sh
+*.[oa]
+*.swp
+*.log
+PI_ZERO/
+tabellen/
+WAAGE/
